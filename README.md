@@ -1,4 +1,4 @@
-A fast decompressor for the ZX0 format for 680x0 CPUs.
+An even faster decompressor for the ZX0 format for 680x0 CPUs.
 
 ZX0 by Einar Saukas, a successor to ZX7, reaches compression ratios in the ballpark of Exomizer, without requiring any decompression tables. 
 
